@@ -10,9 +10,12 @@ environment:
 dependencies:
   path: ^1.8.0
   meta: ^1.17.0
+  freezed_annotation: ^3.0.0
 
 # Not packaged with the built app
 # Only used during development
 dev_dependencies:
+  build_runner: ^2.5.4
+  freezed: ^3.0.6
   lints: ^5.0.0
   test: ^1.24.0
