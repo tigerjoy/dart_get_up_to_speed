@@ -11,6 +11,7 @@ dependencies:
   path: ^1.8.0
   meta: ^1.17.0
   freezed_annotation: ^3.0.0
+  http: ^1.4.0
 
 # Not packaged with the built app
 # Only used during development
